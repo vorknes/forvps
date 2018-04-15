@@ -7,16 +7,16 @@
 </font><br>
 </b>
 <font color="BLUE">
-______________________________________
+<b>_____________________________________</b>
 </font><br>
 <b>
-<font color="PURPLE">
+<font color="GREEN">
 <u>
 Term Of Service :
 </u>
 </b>
 </font><br>
-<font color="RED">
+<font color="PURPLE">
 <i>
 [ - ] No Torrent, DDOS, Hacking, Carding<br>
 [ - ] No Ikeh2<br>
@@ -26,12 +26,12 @@ Term Of Service :
 </font><br>
 </i>
 <font color="BLUE">
-______________________________________
+<b>______________________________________</b>
 </font><br><br>
 <font color="CYAN">
 <b>
 Developed By M Fauzan Romandhoni
 </font><br>
-<font color="GREEN">
+<font color="BLUE">
 Thanks Ea</font><br>
 * * *
