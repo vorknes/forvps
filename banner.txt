@@ -1,12 +1,12 @@
 <br>
 <b>
 <u>
-<font color="BLUE">
+<font color="RED">
 - Wellcome To SSH  Orang Ganteng -
 </u>
 </font><br>
 </b>
-<font color="RED">
+<font color="BLUE">
 ______________________________________
 </font><br>
 <b>
@@ -25,7 +25,7 @@ Term Of Service :
 [ - ] No Visit Site Porn & Game PlayStation
 </font><br>
 </i>
-<font color="RED">
+<font color="BLUE">
 ______________________________________
 </font><br><br>
 <font color="CYAN">
